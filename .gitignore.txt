@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+staticfiles/
+media/
+
+# React (Vite)
+frontend/node_modules/
+frontend/dist/
+
+# System
+.DS_Store
+.env
+.env.local
